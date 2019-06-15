@@ -1,6 +1,6 @@
 # Grupos de trabalho #
 
-## BRITNZ ##
+## BRITNZ - Geral ##
 
 O BRITNZ (geral) é o grupo de trabalho que vai discutir assuntos que interessam todos os participantes, como posicionamento no mercado de trabalho, carreiras, negociação, etc.
 
